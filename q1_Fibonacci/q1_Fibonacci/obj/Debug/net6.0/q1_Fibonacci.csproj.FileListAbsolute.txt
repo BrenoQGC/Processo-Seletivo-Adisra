@@ -1,0 +1,15 @@
+C:\Users\Breno\source\repos\Processo Seletivo Adisra\q1_Fibonacci\q1_Fibonacci\bin\Debug\net6.0\q1_Fibonacci.exe
+C:\Users\Breno\source\repos\Processo Seletivo Adisra\q1_Fibonacci\q1_Fibonacci\bin\Debug\net6.0\q1_Fibonacci.deps.json
+C:\Users\Breno\source\repos\Processo Seletivo Adisra\q1_Fibonacci\q1_Fibonacci\bin\Debug\net6.0\q1_Fibonacci.runtimeconfig.json
+C:\Users\Breno\source\repos\Processo Seletivo Adisra\q1_Fibonacci\q1_Fibonacci\bin\Debug\net6.0\q1_Fibonacci.dll
+C:\Users\Breno\source\repos\Processo Seletivo Adisra\q1_Fibonacci\q1_Fibonacci\bin\Debug\net6.0\q1_Fibonacci.pdb
+C:\Users\Breno\source\repos\Processo Seletivo Adisra\q1_Fibonacci\q1_Fibonacci\obj\Debug\net6.0\q1_Fibonacci.csproj.AssemblyReference.cache
+C:\Users\Breno\source\repos\Processo Seletivo Adisra\q1_Fibonacci\q1_Fibonacci\obj\Debug\net6.0\q1_Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Breno\source\repos\Processo Seletivo Adisra\q1_Fibonacci\q1_Fibonacci\obj\Debug\net6.0\q1_Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Breno\source\repos\Processo Seletivo Adisra\q1_Fibonacci\q1_Fibonacci\obj\Debug\net6.0\q1_Fibonacci.AssemblyInfo.cs
+C:\Users\Breno\source\repos\Processo Seletivo Adisra\q1_Fibonacci\q1_Fibonacci\obj\Debug\net6.0\q1_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Breno\source\repos\Processo Seletivo Adisra\q1_Fibonacci\q1_Fibonacci\obj\Debug\net6.0\q1_Fibonacci.dll
+C:\Users\Breno\source\repos\Processo Seletivo Adisra\q1_Fibonacci\q1_Fibonacci\obj\Debug\net6.0\refint\q1_Fibonacci.dll
+C:\Users\Breno\source\repos\Processo Seletivo Adisra\q1_Fibonacci\q1_Fibonacci\obj\Debug\net6.0\q1_Fibonacci.pdb
+C:\Users\Breno\source\repos\Processo Seletivo Adisra\q1_Fibonacci\q1_Fibonacci\obj\Debug\net6.0\q1_Fibonacci.genruntimeconfig.cache
+C:\Users\Breno\source\repos\Processo Seletivo Adisra\q1_Fibonacci\q1_Fibonacci\obj\Debug\net6.0\ref\q1_Fibonacci.dll
